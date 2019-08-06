@@ -1,0 +1,27 @@
+[Project ID]
+Signature=UE Proj: v.1
+[Project Information]
+Compilable=1
+Use Relative Directory=1
+Relative to Project File=1
+Project Directory=E:\02_Work\00_MyStudio\SVNServerFolder\branches\06_芯连心嵌入式工作室\01_STM8S\08_Practice2_Bootloader\Practice2
+Include Sub Directories=1
+Project Tagfile=
+Project Wordfile=
+Filter=
+Using VCS=0
+Save Account=0
+Create Tagfile=0
+CTags Legacy Support=0
+[Files]
+0=C:\Users\Administrator\Desktop\新建文件夹\Bootloader\
+[Group Filter]
+C:\Users\Administrator\Desktop\新建文件夹\Bootloader\=*.c;*.h;*.map;*.asm;*.icf;*hex
+[uemakeXp]
+ReleaseMode=0
+[Debug Settings]
+Program Arguments=
+Symbol Paths=
+Working Directory=
+Selected Debugger=0
+Source Paths=
